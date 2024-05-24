@@ -1,0 +1,4 @@
+.venv
+.idea
+Data-set.xlsx
+db.sqlite3

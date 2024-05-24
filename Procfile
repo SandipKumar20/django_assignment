@@ -1,0 +1,1 @@
+web: gunicorn Medius_assignment_django.wsgi --log-file -
